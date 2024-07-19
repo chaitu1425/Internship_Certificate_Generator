@@ -1,11 +1,11 @@
 # Certificate-generator
 This is a Python program that utilizes word,excel data to create an certificate generator.
 
-#installation
+#3installation
 Before running the program, ensure that the required libraries are installed. You can install them using pip:
 pip install kivy,pip install pandas,pip install docxtpl.
 
-#usage
+##usage
 1.Edit the template:
       -Create the template according to the certifacte you need.
       -Place the values that are to be fetched from the excel with {{value}} in the word
