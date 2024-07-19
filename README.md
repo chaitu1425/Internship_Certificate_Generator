@@ -1,5 +1,5 @@
 # Certificate-generator
-This is a Python program that utilizes word,excel data to create an certificate generator.
+This is a Python program that utilizes word,excel data to generate certificates.
 
 # Installation
 
