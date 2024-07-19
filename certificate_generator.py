@@ -76,7 +76,7 @@ class CertificateGenerator(App):
         'gender' : gender,
         'gender1' :gender1
         }
-        doc = DocxTemplate("E:\\python\\SYMBIOSYS_TECHNOLOGIES_certificate.docx")
+        doc = DocxTemplate("template_certificate.docx")//template_path
 
         doc.render(context)
 
