@@ -14,11 +14,11 @@ pip install kivy,pip install pandas,pip install docxtpl.
    - Place the values that are to be fetched from the excel with {{value}} in the word
    - save the file with template_certicate.docx
       
-2.Ceate the data:
+2. Create the data:
   - Create the excel with required fields for the certificate to be generate.
   - Save the file with certificate_data.xlsx
       
-3.Running:
+3. Running:
   - Execute the Python file "certificate_generator.py"
   - ![WhatsApp Image 2024-07-19 at 13 24 10_6b5401e6](https://github.com/user-attachments/assets/a0f71284-fb25-49a7-8dd8-e19b3c38a19b)
   - Select the "certificate_data.xlsx" from the files listed
