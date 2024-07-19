@@ -9,9 +9,9 @@ pip install kivy,pip install pandas,pip install docxtpl.
 # Usage
 
 1.Edit the template:
-      -Create the template according to the certifacte you need.
-      -Place the values that are to be fetched from the excel with {{value}} in the word
-      -save the file with template_certicate.docx
+  -Create the template according to the certifacte you need.
+  -Place the values that are to be fetched from the excel with {{value}} in the word
+  -save the file with template_certicate.docx
       
 2.Ceate the data:
       -Create the excel with required fields for the certificate to be generate.
