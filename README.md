@@ -26,5 +26,5 @@ pip install kivy,pip install pandas,pip install docxtpl.
    ![WhatsApp Image 2024-07-19 at 13 24 55_0798f415](https://github.com/user-attachments/assets/ec19e365-ffae-4c35-885c-d0ef9791e1b3)
 
 # Certificate
-   - ![WhatsApp Image 2024-07-19 at 13 25 26_b96543b1](https://github.com/user-attachments/assets/9d52026b-81c0-450f-8e34-1613a40e56ed)
+   ![WhatsApp Image 2024-07-19 at 13 25 26_b96543b1](https://github.com/user-attachments/assets/9d52026b-81c0-450f-8e34-1613a40e56ed)
 
