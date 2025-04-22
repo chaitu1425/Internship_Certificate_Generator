@@ -12,7 +12,7 @@ import os
 class CertificateGenerator(App):
     def build(self):
         layout = BoxLayout(orientation='vertical', spacing=10)
-        self.file_label = Label(text="No file selected")
+        self.file_label = Label(text="No file selected") #adding upload to get xls file
         layout.add_widget(self.file_label)
         
         file_chooser = FileChooserListView()
@@ -28,7 +28,7 @@ class CertificateGenerator(App):
     def generate_certificates(self, path, filename):
         if filename:
             selected_file = filename[0]
-            self.file_label.text = f"Selected file: {selected_file}"
+            self.file_label.text = f"Selected file: {selected_file}" 
             try:
                 df = pd.read_excel(selected_file)
                 for index, row in df.iterrows():
